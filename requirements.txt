@@ -1,0 +1,9 @@
+# 基础依赖
+streamlit
+numpy
+Pillow
+
+# 人脸识别相关
+cmake
+dlib
+face-recognition
